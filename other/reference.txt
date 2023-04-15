@@ -1,8 +1,0 @@
-
-
-Unit Test
-https://spring.io/guides/gs/testing-web/
-
-
-Swagger
-localhost:8081/swagger-ui/index.html
